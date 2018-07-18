@@ -57,3 +57,15 @@ ls (($localrepository + $svgdir) + "*.svg") | %{
 }
 
 <# TODO: README markup generation #>
+
+#$svgsymbols = ls (($localrepository + $svgdir) + "*.svg") | ?{$_.name -match "^(\w+)\-(\w+)\-(\w+)\.svg$"} | Select @{Name='Symbol';Expression={$matches[1]}},@{Name='BorderType';Expression={$matches[2]}},@{Name='Colour';Expression={$matches[3]}},@{Name='Filename';Expression={$_.name}}
+
+#use $pngdimensions to locate the png files
+
+# Corporate colour table
+
+#$svgsymbols | ?{$colours.keys -contains $_.Colour} | Group-Object Symbol
+
+# Other colours
+
+#$svgsymbols | ?{$colours.keys -notcontains $_.Colour}
