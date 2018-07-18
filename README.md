@@ -1,6 +1,15 @@
 # MappingSymbology
 Standardised mapping symbols for use with web mapping.
 
+File names take on the  conventions
+ * PNG files are saved only into the PNG directory
+ * Vector files are only in SVG format
+ * SVG files are saved only into the SVG directory
+ * SVG naming convention is as follows:
+  * [identifier]-[colourname].svg
+ * PNG naming convention is as follows
+  * [identifier]-[colourname]-[sizeinpixels].svg
+
 ![Automated External Defibrillator](https://raw.githubusercontent.com/MichaelLindsayCOGC/MappingSymbology/master/SVG/defibrillator-single.svg?sanitize=true)
 
 
