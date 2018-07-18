@@ -6,15 +6,14 @@ File names take on the  conventions
  * Vector files are only in SVG format
  * SVG files are saved only into the SVG directory
  * SVG naming convention is as follows:
-  * [identifier]-[colourname].svg
+   * [identifier]-[colourname].svg
  * PNG naming convention is as follows
-  * [identifier]-[colourname]-[sizeinpixels].svg
+   * [identifier]-[colourname]-[sizeinpixels].svg
 
 ![Automated External Defibrillator](https://raw.githubusercontent.com/MichaelLindsayCOGC/MappingSymbology/master/SVG/defibrillator-single.svg?sanitize=true)
 
 
 # File creation notes
- * SVG created using paticular corporate colour (e.g. watermelon)
+ * SVG created using one paticular corporate colour reflected in the filename (e.g. watermelon) prior to running the powershell script
  * Link to raw SVG file in MarkDown must be ammended with "?sanitize=true"
- * Use PowerShell (or other scripting) to create various corporate colour branding
- * Potentially use InkScape for conversion from SVG to PNG https://gallery.technet.microsoft.com/scriptcenter/Convert-SVG-to-PNG-e759387c
+ * PNG files may have to be in folders as there are many created. (1x design 4x SVG for colours 3x sizes (currently))
