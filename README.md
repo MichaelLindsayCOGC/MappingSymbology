@@ -10,7 +10,7 @@ File names take on the  conventions
  * PNG naming convention is as follows
    * [identifier]-[colourname]-[sizeinpixels].svg
 
-![Automated External Defibrillator](https://raw.githubusercontent.com/MichaelLindsayCOGC/MappingSymbology/master/SVG/defibrillator-single.svg?sanitize=true)
+![Automated External Defibrillator](https://raw.githubusercontent.com/MichaelLindsayCOGC/MappingSymbology/master/SVG/aed-circle-watermelon.svg?sanitize=true)
 
 
 # File creation notes
