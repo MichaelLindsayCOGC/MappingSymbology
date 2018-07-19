@@ -17,3 +17,6 @@ File names take on the  conventions
  * SVG created using one paticular corporate colour reflected in the filename (e.g. watermelon) prior to running the powershell script
  * Link to raw SVG file in MarkDown and ArcGIS Online must be ammended with "?sanitize=true" to return the correct MIMETYPE
  * PNG files may have to be in folders as there are many created. (1x design 4x SVG for colours 3x sizes (currently))
+
+# TODO
+ * Script MarkDown and HTML generation of files for gallery view (both within GitHub and internally)
