@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="surveilencetower-circle-watermelon.svg">
+   sodipodi:docname="surveilencetower-circle-charcoal.svg">
   <defs
      id="defs2">
     <filter
@@ -90,6 +90,13 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-3" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -98,9 +105,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-462.3141"
-     inkscape:cy="-27.665595"
+     inkscape:zoom="2.8"
+     inkscape:cx="4.8571234"
+     inkscape:cy="89.54542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -174,9 +181,9 @@
        cx="138.33928"
        cy="164.70833" />
     <path
-       id="path838"
-       d="m 133.91149,152.88835 v 3.42826 h 8.85639 v -3.42826 z m 7.99933,11.71307 -2.2856,2.57119 3.71399,4.57107 z m -0.57093,-2.57107 -0.85707,-3.14266 h -4.28519 l -0.85707,3.14266 2.85679,3.71386 z m -7.99919,9.71333 3.71399,-4.57107 -2.2856,-2.57119 z m -1.14323,4.57093 -0.28612,1.71414 h -2.5712 l 4.28533,-19.14106 h -2.57119 v -7.14214 l 7.14212,-3.14253 7.42786,3.14253 v 7.14214 h -2.57119 l 4.28533,19.14106 h -2.57119 l -0.28613,-1.71414 -5.99948,-7.42786 z"
-       style="fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.57111096"
+       id="path843"
+       d="m 142.8684,162.55648 h -8.97625 v -6.02515 h 8.97625 z m -8.97625,4.87752 h 8.97625 v 0.041 l -4.50863,5.28739 -4.46762,-5.24639 z m 0,1.10665 4.01676,4.75456 -4.01676,4.71357 z m 4.9185,4.75456 4.05775,-4.79553 v 9.59107 z m 9.55007,-16.76388 -10.00095,-7.09085 -10.04193,7.09085 h 3.56592 v 6.02515 h -3.56592 v 4.87752 h 3.56592 v 12.54217 h 1.14765 0.041 v 0 h 0.81975 v -0.94271 l 4.46762,-5.2464 4.50863,5.32837 v 0.86074 h 0.73778 0.0411 0.0411 1.18864 V 167.434 h 3.40196 v -4.87752 h -3.40196 v -6.02515 z m 0,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51234758"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

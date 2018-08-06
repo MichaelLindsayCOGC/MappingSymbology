@@ -17,7 +17,15 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="surveilencetower-marker-charcoal.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,17 +33,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="6.7468621"
-     inkscape:cy="128.18734"
+     inkscape:zoom="5.6"
+     inkscape:cx="21.432737"
+     inkscape:cy="125.57495"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-1"
      showgrid="false"
-     inkscape:window-width="1077"
-     inkscape:window-height="951"
-     inkscape:window-x="2122"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1178"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -104,10 +112,10 @@
          style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          aria-label="For use" />
       <path
-         inkscape:connector-curvature="0"
-         d="m 26.169643,141.20984 v 3.49122 h 8.869351 v -3.49122 z m 7.913648,11.65884 -2.144165,2.59912 3.720551,4.52807 z m -0.571273,-2.57793 -0.680569,-3.11747 h -4.447024 l -0.68057,3.11042 2.902376,3.56184 z m -7.963031,9.70872 3.72055,-4.52819 -2.144165,-2.59913 z m -0.9874,4.47168 -0.377337,1.71742 -2.458033,-0.01 4.210744,-19.00129 -2.429816,-0.0267 v -6.91206 l 7.102525,-3.18106 7.102537,3.18106 v 6.91551 l -2.426283,0.0267 4.200161,19.00116 -2.44745,0.01 -0.377337,-1.71036 -6.048083,-7.37057 z"
-         id="path7595"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:3.52658153" />
+         id="path831"
+         d="m 35.474724,149.78601 h -8.635418 v -5.79637 h 8.635418 z m -8.635418,4.69231 h 8.635418 v 0.0395 l -4.337424,5.08662 -4.297994,-5.0472 z m 0,1.06463 3.864251,4.57402 -3.864251,4.53458 z m 4.731736,4.57402 3.903682,-4.61344 v 9.22688 z m 9.187453,-16.12733 -9.621195,-6.82159 -9.660627,6.82159 h 3.430508 v 5.79637 h -3.430508 v 4.69231 h 3.430508 v 12.06592 h 1.104073 0.03944 v 0 h 0.788623 v -0.90691 l 4.297994,-5.04718 4.337424,5.12603 v 0.82806 h 0.70976 0.03944 0.03944 1.143503 v -12.06592 h 3.272784 v -4.69231 h -3.272784 v -5.79637 z m 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49289277"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
