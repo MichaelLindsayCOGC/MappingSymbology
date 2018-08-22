@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.981762mm"
+   height="44.981762mm"
+   viewBox="0 0 44.981762 44.981762"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="koala-circle-charcoal.svg">
+  <defs
+     id="defs2">
+    <filter
+       id="filter4961"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood4951"
+         result="flood"
+         flood-color="rgb(29,15,0)"
+         flood-opacity="0.854902" />
+      <feComposite
+         id="feComposite4953"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur4955"
+         result="blur"
+         stdDeviation="2"
+         in="composite1" />
+      <feOffset
+         id="feOffset4957"
+         result="offset"
+         dy="0"
+         dx="0" />
+      <feComposite
+         id="feComposite4959"
+         result="fbSourceGraphic"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix4963"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feFlood
+         in="fbSourceGraphic"
+         result="flood"
+         flood-color="rgb(29,15,0)"
+         flood-opacity="0.854902"
+         id="feFlood4965" />
+      <feComposite
+         result="composite1"
+         operator="in"
+         in="flood"
+         id="feComposite4967"
+         in2="fbSourceGraphic" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="2"
+         in="composite1"
+         id="feGaussianBlur4969" />
+      <feOffset
+         result="offset"
+         dy="0"
+         dx="0"
+         id="feOffset4971" />
+      <feComposite
+         result="composite2"
+         operator="over"
+         in="fbSourceGraphic"
+         id="feComposite4973"
+         in2="offset" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-14.245964"
+     inkscape:cy="125.91459"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-115.8484,-142.21745)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5155"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-42.219817,-44.875326)"><flowRegion
+         id="flowRegion5157"
+         style="fill:#000000"><rect
+           id="rect5159"
+           width="220.21326"
+           height="41.416256"
+           x="135.36044"
+           y="151.76309"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara5161">Rastessssdare</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5185"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       transform="matrix(0.37266857,0,0,0.37266857,-15.632942,-36.863155)"><flowRegion
+         id="flowRegion5187"
+         style="fill:#000000;stroke:#000000;stroke-opacity:1"><rect
+           id="rect5189"
+           width="376.16443"
+           height="48.368317"
+           x="17.172594"
+           y="16.402647"
+           style="fill:#000000;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara5191" /></flowRoot>    <g
+       aria-label="For use"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text5195"
+       transform="translate(-42.219817,-44.875326)" />
+    <circle
+       r="19.783596"
+       cy="164.70833"
+       cx="138.33928"
+       id="circle5143"
+       style="fill:#b5b0a9;fill-opacity:1;stroke:none;stroke-width:4.39223909;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30150757" />
+    <circle
+       r="19.783596"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.41456985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30150757"
+       id="circle5145"
+       cx="138.33928"
+       cy="164.70833" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.90110242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.789062 28.373047 C 85.487549 28.368393 85.199858 28.381016 84.925781 28.412109 C 80.489712 28.915278 73.318359 35.095703 73.318359 35.095703 C 73.318359 35.095703 56.797247 27.540609 52.566406 40.722656 C 48.032409 54.845503 66.986328 60.066406 66.986328 60.066406 C 66.986328 60.066406 34.665316 84.298503 38.496094 106.84766 C 42.542569 130.66745 54.512743 132.28909 61.464844 135.10352 C 70.522935 138.77041 90.904297 129.70898 90.904297 129.70898 L 90.90625 129.70898 L 95.126953 132.52344 L 120.44922 118.80469 L 119.04297 111.77148 L 104.97266 111.77148 C 104.97266 111.77148 103.14527 106.74193 101.45703 104.73633 C 99.675097 102.61938 94.773438 99.8125 94.773438 99.8125 L 95.125 92.425781 C 95.125 92.425781 107.34502 87.916662 112.71289 84.335938 C 119.61491 79.732057 131.00195 67.453125 131.00195 67.453125 C 131.00195 67.453125 132.16777 61.686198 130.29883 60.066406 C 128.43628 58.452132 122.91211 60.419922 122.91211 60.419922 C 122.91211 60.419922 114.06463 70.446491 108.13867 73.082031 C 104.79028 74.57143 97.236328 74.488281 97.236328 74.488281 L 97.587891 69.212891 C 97.587891 69.212891 104.05386 66.166242 105.67773 63.232422 C 107.89858 59.219962 106.73242 49.515625 106.73242 49.515625 C 106.73242 49.515625 113.20384 47.945845 114.4707 45.294922 C 116.16624 41.746815 115.25559 36.347645 112.35938 33.6875 C 108.71652 30.341371 97.587891 32.28125 97.587891 32.28125 C 97.587891 32.28125 90.311762 28.442849 85.789062 28.373047 z M 91.642578 46.519531 A 6.1589885 8.9651033 0 0 1 97.802734 55.484375 A 6.1589885 8.9651033 0 0 1 91.642578 64.449219 A 6.1589885 8.9651033 0 0 1 85.484375 55.484375 A 6.1589885 8.9651033 0 0 1 91.642578 46.519531 z "
+       transform="matrix(0.26458333,0,0,0.26458333,115.8484,142.21745)"
+       id="path4373" />
+  </g>
+</svg>
