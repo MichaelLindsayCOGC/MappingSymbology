@@ -8,7 +8,7 @@ File names take on the  conventions
  * SVG naming convention is as follows:
    * [identifier]-[colourname].svg
  * PNG naming convention is as follows
-   * [identifier]-[colourname]-[sizeinpixels].svg
+   * [identifier]-[colourname]-[sizeinpixels].png
 
 ![Automated External Defibrillator](https://raw.githubusercontent.com/MichaelLindsayCOGC/MappingSymbology/master/SVG/aed-circle-watermelon.svg?sanitize=true)
 
